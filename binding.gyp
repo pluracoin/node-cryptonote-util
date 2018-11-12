@@ -15,8 +15,7 @@
             ],
             "include_dirs": [
                 "src",
-                "src/contrib/epee/include",
-                "<!(node -e \"require('nan')\")"
+                "src/contrib/epee/include"                
             ],
             "link_settings": {
                 "libraries": [

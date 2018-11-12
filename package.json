@@ -15,8 +15,7 @@
       "test": "node-gyp clean && node-gyp configure && node-gyp build"
     },
     "dependencies": {
-        "bindings": "*",
-        "nan": "^2.6.2"
+        "bindings": "*"
     },
     "keywords": [
         "cryptonight",
